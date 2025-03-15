@@ -8,5 +8,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomkaGP228&layout=compact)](https://github.com/RomkaGP228/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomkaGP228)](https://github.com/RoomkaGP228/github-readme-stats)
