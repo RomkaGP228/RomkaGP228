@@ -1,6 +1,6 @@
 <h1 align="center">Tumba-Yumba_Coder_3000</h1>
 <h3 border-botton= none>- 17 yo <br>
-- Computer science student <br>
+- Computer science student and engineer <br>
 - Techology enjoyer
 </h3>
 
