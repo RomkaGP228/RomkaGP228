@@ -1,8 +1,8 @@
 <h1>RomkaGP228</h1>
 
-- 18 yo
-- Student in Central University
-- Engineer and coder
+- 19 yo
+- Life enjoyer
+- Arch user
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomkaGP228)](https://github.com/RomkaGP228/github-readme-stats)
 
